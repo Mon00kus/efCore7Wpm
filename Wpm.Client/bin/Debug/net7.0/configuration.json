@@ -1,0 +1,5 @@
+{
+  "connectionStrings": {
+    "Wpm": "Data source=DESKTOP-QLP7P2N;Initial Catalog=Wpm;Integrated Security=true;Trust Server Certificate=true;"
+  }
+}

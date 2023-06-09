@@ -1,0 +1,14 @@
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\ejemploScaffolding\bin\Debug\net7.0\ejemploScaffolding.deps.json
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\ejemploScaffolding\bin\Debug\net7.0\ejemploScaffolding.dll
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\ejemploScaffolding\bin\Debug\net7.0\ejemploScaffolding.pdb
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\ejemploScaffolding\obj\Debug\net7.0\ejemploScaffolding.csproj.AssemblyReference.cache
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\ejemploScaffolding\obj\Debug\net7.0\ejemploScaffolding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\ejemploScaffolding\obj\Debug\net7.0\ejemploScaffolding.AssemblyInfoInputs.cache
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\ejemploScaffolding\obj\Debug\net7.0\ejemploScaffolding.AssemblyInfo.cs
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\ejemploScaffolding\obj\Debug\net7.0\ejemploScaffolding.csproj.CoreCompileInputs.cache
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\ejemploScaffolding\obj\Debug\net7.0\ejemploScaffolding.dll
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\ejemploScaffolding\obj\Debug\net7.0\refint\ejemploScaffolding.dll
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\ejemploScaffolding\obj\Debug\net7.0\ejemploScaffolding.pdb
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\ejemploScaffolding\obj\Debug\net7.0\ref\ejemploScaffolding.dll
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\ejemploScaffolding\bin\Debug\net7.0\ejemploScaffolding.runtimeconfig.json
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\ejemploScaffolding\obj\Debug\net7.0\ejemploScaffolding.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\bin\Debug\net7.0\Wpm.Dal.deps.json
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\bin\Debug\net7.0\Wpm.Dal.dll
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\bin\Debug\net7.0\Wpm.Dal.pdb
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\bin\Debug\net7.0\Wpm.Domain.dll
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\bin\Debug\net7.0\Wpm.Domain.pdb
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\obj\Debug\net7.0\Wpm.Dal.csproj.AssemblyReference.cache
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\obj\Debug\net7.0\Wpm.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\obj\Debug\net7.0\Wpm.Dal.AssemblyInfoInputs.cache
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\obj\Debug\net7.0\Wpm.Dal.AssemblyInfo.cs
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\obj\Debug\net7.0\Wpm.Dal.csproj.CoreCompileInputs.cache
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\obj\Debug\net7.0\Wpm.Dal.csproj.CopyComplete
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\obj\Debug\net7.0\Wpm.Dal.dll
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\obj\Debug\net7.0\refint\Wpm.Dal.dll
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\obj\Debug\net7.0\Wpm.Dal.pdb
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\obj\Debug\net7.0\ref\Wpm.Dal.dll
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\bin\Debug\net7.0\Wpm.Dal.runtimeconfig.json
+C:\Users\rmonc\OneDrive\Escritorio\training\Linked Learning\.Net 7 Entity frameWork Core essentials\efcore7\Wpm.Dal\obj\Debug\net7.0\Wpm.Dal.genruntimeconfig.cache

@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Wpm.Dal/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Wpm.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Wpm.Dal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Wpm.Dal.dll": {}
+        }
+      },
+      "Wpm.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Wpm.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Wpm.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wpm.Dal/1.0.0": {
+      "type": "project",
+      "path": "../Wpm.Dal/Wpm.Dal.csproj",
+      "msbuildProject": "../Wpm.Dal/Wpm.Dal.csproj"
+    },
+    "Wpm.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Wpm.Domain/Wpm.Domain.csproj",
+      "msbuildProject": "../Wpm.Domain/Wpm.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Wpm.Dal >= 1.0.0",
+      "Wpm.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rmonc\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rmonc\\OneDrive\\Escritorio\\training\\Linked Learning\\.Net 7 Entity frameWork Core essentials\\efcore7\\Wpm.Client\\Wpm.Client.csproj",
+      "projectName": "Wpm.Client",
+      "projectPath": "C:\\Users\\rmonc\\OneDrive\\Escritorio\\training\\Linked Learning\\.Net 7 Entity frameWork Core essentials\\efcore7\\Wpm.Client\\Wpm.Client.csproj",
+      "packagesPath": "C:\\Users\\rmonc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rmonc\\OneDrive\\Escritorio\\training\\Linked Learning\\.Net 7 Entity frameWork Core essentials\\efcore7\\Wpm.Client\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\rmonc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\rmonc\\OneDrive\\Escritorio\\training\\Linked Learning\\.Net 7 Entity frameWork Core essentials\\efcore7\\Wpm.Dal\\Wpm.Dal.csproj": {
+              "projectPath": "C:\\Users\\rmonc\\OneDrive\\Escritorio\\training\\Linked Learning\\.Net 7 Entity frameWork Core essentials\\efcore7\\Wpm.Dal\\Wpm.Dal.csproj"
+            },
+            "C:\\Users\\rmonc\\OneDrive\\Escritorio\\training\\Linked Learning\\.Net 7 Entity frameWork Core essentials\\efcore7\\Wpm.Domain\\Wpm.Domain.csproj": {
+              "projectPath": "C:\\Users\\rmonc\\OneDrive\\Escritorio\\training\\Linked Learning\\.Net 7 Entity frameWork Core essentials\\efcore7\\Wpm.Domain\\Wpm.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
